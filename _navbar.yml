@@ -1,0 +1,7 @@
+title: ST2001
+type: inverse
+left:
+ - text: "Lab 0"
+   href: index.html
+ - text: "Lab 1"
+   href: lab_1.html

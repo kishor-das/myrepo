@@ -1,0 +1,16 @@
+---
+title: Lab 1
+output:
+  html_document:
+    toc_depth: 3
+---
+
+## Lab 1 introcudtion
+
+### lab 1 example 1
+
+here is the very important discussion
+
+### lab 1 example 2
+
+this a very improtant example

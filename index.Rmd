@@ -1,0 +1,19 @@
+---
+title: ST2001 lab
+---
+
+
+## The structure of the lab
+
+Here we discuss about how to utilize this lab.
+
+### Required software
+Download and install R
+
+### Prerequisite
+
+No prerequisite is required for this course
+
+
+
+
